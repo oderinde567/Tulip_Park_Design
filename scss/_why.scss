@@ -3,4 +3,21 @@
     .inner{
         margin-top: 20px;
     }
+
+    .child_why{
+        background: $whColor;
+        box-shadow: $boxShadow;
+        border-radius: 10px;
+        flex-basis: 30%;
+        margin: 0 1%;
+        padding: 25px;
+        text-align: center;
+
+        p{
+            margin: 0;
+        }
+        // img{
+
+        // }
+    }
 }
